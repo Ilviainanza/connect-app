@@ -22,7 +22,6 @@ export default function UserPage() {
                         role={employee.role}
                         status={employee.status}
                         />
-                        </UserCard>
                 <div className="text-right py-30 px-10">
                     <button className="text-black text-4xl border-2 rounded w-15 bg-gray-300 border-gray-300 ">
                         +
