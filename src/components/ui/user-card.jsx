@@ -14,4 +14,4 @@ export default function UserCard() {
                     </div>
                 </div>
     );
-}
+} 
